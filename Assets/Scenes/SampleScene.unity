@@ -759,7 +759,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   pipe: {fileID: 2028899614333510138, guid: 085e684ec61817c459665a9c5e30fa23, type: 3}
-  spawnRate: 3
+  spawnRate: 3.3
   heightOffset: 9
 --- !u!4 &741496578
 Transform:
@@ -2029,7 +2029,7 @@ ParticleSystem:
           m_PostInfinity: 2
           m_RotationOrder: 4
       cycleCount: 0
-      repeatInterval: 5
+      repeatInterval: 8
       probability: 1
   SizeModule:
     enabled: 0
